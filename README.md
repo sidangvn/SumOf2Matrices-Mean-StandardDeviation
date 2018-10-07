@@ -1,4 +1,4 @@
-# SumOf2Matrices-Mean-StandardDeviation
+# SumOf2Matrices-Mean-StandardDeviation - 7
 
 
 Mean and Standard Deviation (20 pts) – MeanSD.java
